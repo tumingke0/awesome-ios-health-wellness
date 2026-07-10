@@ -44,6 +44,7 @@ A curated list of iPhone and iPad apps for everyday health and wellness — **pe
 
 Suggestions for other privacy-respecting, pay-once health & wellness apps are welcome — open an issue or a pull request.
 
+
 ## Related lists
 
 Part of a family of curated, pay-once / privacy-first iOS app lists:
