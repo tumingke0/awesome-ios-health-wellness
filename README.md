@@ -44,6 +44,21 @@ A curated list of iPhone and iPad apps for everyday health and wellness — **pe
 
 Suggestions for other privacy-respecting, pay-once health & wellness apps are welcome — open an issue or a pull request.
 
+## Related lists
+
+Part of a family of curated, pay-once / privacy-first iOS app lists:
+
+- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
+- [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
+- [Awesome iOS For Students](https://github.com/alice51849/awesome-ios-for-students)
+- [Awesome iOS Privacy-First](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Pay-Once](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
+
+For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+
 ## License
 
 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Do what you like.
