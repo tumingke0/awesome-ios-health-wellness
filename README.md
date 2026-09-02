@@ -4,11 +4,14 @@ A curated list of iPhone and iPad apps for everyday health and wellness — **pe
 
 > **Not medical advice.** The apps here are wellness and self-tracking tools, **not medical devices**. For medical concerns, consult a qualified professional.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Period & Cycle Tracking](#period--cycle-tracking)
 - [Sleep, White Noise & Tinnitus](#sleep-white-noise--tinnitus)
 - [Focus & Screen Time](#focus--screen-time)
+- [Habits & Everyday Care](#habits--everyday-care)
 - [Notes](#notes)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,6 +36,11 @@ A curated list of iPhone and iPad apps for everyday health and wellness — **pe
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time and focus app; subscription.
 - [one sec](https://apps.apple.com/app/id1532875441) - Adds friction before opening distracting apps; freemium.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker and screen-time tool built on Apple's Screen Time API; works on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
+
+## Habits & Everyday Care
+
+- [Mochi DoneStamp](https://apps.apple.com/app/id6790800323) - Lumi Studio "when did I last…" tracker for chores and recurring household tasks like sheets, filters and backups. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochidonestamp.html)
+- [Mochi](https://apps.apple.com/app/id6785004775) - Lumi Studio checklist app for everyday tasks and small routines; free to start with a one-time unlock. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochi.html)
 
 ## Notes
 
