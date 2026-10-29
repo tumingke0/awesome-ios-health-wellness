@@ -33,6 +33,7 @@ A curated list of iPhone and iPad apps for everyday health and wellness — **pe
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time and focus app; subscription.
 - [one sec](https://apps.apple.com/app/id1532875441) - Adds friction before opening distracting apps; freemium.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker and screen-time tool built on Apple's Screen Time API; works on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
+- [Ripple](https://ripplefocus.github.io/) - Free app blocker for iPhone (iOS 16+) and Android, focused on parents and on people who keep turning their own limits off. On iOS it uses Apple's FamilyControls and ManagedSettings to stop the app from being deleted, a DeviceActivity extension to block apps at set times in the background, a boot-time clock that ignores manual time changes, and an 8-digit parent unlock code. Rule changes wait through a 15-minute cooldown. Runs on-device, no account, no ads. Distributed as a direct IPA download, not through the App Store.
 
 ## Notes
 
